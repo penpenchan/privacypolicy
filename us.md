@@ -6,5 +6,9 @@ Privacy Policy of Unity Technologies, Inc.
 https://unity.com/legal/privacy-policy
 
 About translation
+Since Korean can now be translated by DeepL translation, we will use DeepL translation and Google Translate for translations other than "big cake shop".
+First, there is a possibility that the meaning of some words may differ between the two translation sites, DeepL and Google Translate, and we will do our best to make the meaning the same as possible.
+Secondly, since the translation is done by a machine, there is a possibility that the words may be inappropriate in that country, so we ask for your understanding.
 
-The translation site of this application uses google translation and deepl translation to make the translation results almost the same on the two sites, but there may be cases where there is Not correct translation. Also, regarding Korean, deepl translation does not support it, so we ask for your understanding and cooperation as it is translated only by google translate.
+About questions, etc.
+If you have any questions for Pepe, we would be happy to answer them on Twitter or Discord.
