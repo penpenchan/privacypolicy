@@ -12,3 +12,5 @@ Secondly, since the translation is done by a machine, there is a possibility tha
 
 About questions, etc.
 If you have any questions for Pepe, we would be happy to answer them on Twitter or Discord.
+Discord : https://discord.gg/fzTAASZAPK
+Twitter : https://twitter.com/red_creator
