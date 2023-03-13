@@ -1,16 +1,14 @@
-This application does not collect or publish any personal information.
+This application does not collect user information.
 
-This application uses Unity Ads (Unity Technologies, Inc.), and there are cases where the user's information is automatically obtained from the advertising module from this. Please refer to the privacy policy of your ad-serving provider for more information about user information from Unity Ads, the purpose of use, and provision to third parties.
+This application does not collect or disclose any personal information. This application uses Unity Ads (Unity Technologies, Inc.), which may automatically collect user information from its advertising module. Please refer to your ad-serving provider's privacy policy for more information about user information from Unity Ads, how it is used, and how it is provided to third parties.
 
-Privacy Policy of Unity Technologies, Inc.
+Unity Technologies, Inc. Privacy Policy
 https://unity.com/legal/privacy-policy
 
-About translation
-Since Korean can now be translated by DeepL translation, we will use DeepL translation and Google Translate for translations other than "big cake shop".
-First, there is a possibility that the meaning of some words may differ between the two translation sites, DeepL and Google Translate, and we will do our best to make the meaning the same as possible.
-Secondly, since the translation is done by a machine, there is a possibility that the words may be inappropriate in that country, so we ask for your understanding.
+About Translation
+This application is translated by DeepL translation. Therefore, please understand that the translation may be incorrect.
 
-About questions, etc.
-If you have any questions for Pepe, we would be happy to answer them on Twitter or Discord.
-Discord : https://discord.gg/fzTAASZAPK
+Contact Information
+If you have any questions or need to contact us, please use the following links to contact us.
 Twitter : https://twitter.com/red_creator
+Discord : https://discord.gg/fzTAASZAPK
