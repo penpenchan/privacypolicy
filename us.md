@@ -6,7 +6,7 @@ Unity Technologies, Inc. Privacy Policy
 https://unity.com/legal/privacy-policy
 
 About Translation
-This application is translated by DeepL translation. Therefore, please understand that the translation may be incorrect.
+This application is translated by DeepL translation and Google Translate. Therefore, please understand that the translation may be incorrect.
 
 Contact Information
 If you have any questions or need to contact us, please use the following links to contact us.
