@@ -8,6 +8,9 @@ https://unity.com/legal/privacy-policy
 About Translation
 This application is translated by DeepL translation and Google Translate. Therefore, please understand that the translation may be incorrect.
 
+About the Android version of the application
+The Android version of the application has not been tested on an actual device, so there may be problems. If you encounter any problems, please contact us at the address below.
+
 Contact Information
 If you have any questions or need to contact us, please use the following links to contact us.
 Twitter : https://twitter.com/red_creator
